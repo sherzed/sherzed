@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi, I'm Eren</h1>
-<h4 align="center">a freelance developer an also an engineering students at yogyakarta state university</h4>
+<h4 align="center">A blockchain developer</h4>
 </div>
 
 <div align="center">
