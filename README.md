@@ -27,7 +27,10 @@
          alt="sherzed" height="30"/></a>
     </p>
   <p align="center">
-      <a href="https://instagram.com/erenivon" target="blank"><img align="center"
+      <a href="https://youtube.com/c/sherzedtrap" target="blank"><img align="center"
+         src="https://img.shields.io/badge/youtube-%23E4405F.svg?style=for-the-badge&logo=YouTube&logoColor=white"
+         alt="azzar" height="30"/></a>
+     <a href="https://instagram.com/erenivon" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="azzar" height="30"/></a>
       <a href="https://twitter.com/sherzed_" target="blank"><img align="center"
