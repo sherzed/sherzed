@@ -1,11 +1,11 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Azzar</h1>
+<h1 align="center">Hi, I'm Eren</h1>
 <h4 align="center">a freelance developer an also an engineering students at yogyakarta state university</h4>
 </div>
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <a href="https://www.erenivon.ml">
+  <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/096f537fcee505624cb6721a7ec98fc8379e5ce6/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
