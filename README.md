@@ -16,8 +16,6 @@
 </p>
 </div>
 
-![Preview](https://itstommi.vercel.app/api?theme=dark)
-
 <div align="center">
   <a href="https://www.erenivon.ml">
   <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/096f537fcee505624cb6721a7ec98fc8379e5ce6/resources/img/grid-snake.svg"
