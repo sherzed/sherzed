@@ -3,9 +3,9 @@
 <h4 align="center">A blockchain developer</h4>
 <p>
 <div align="center">
+  <img src="https://img.shields.io/badge/-Solidity-98b982?style=for-the-badge&logo=solidity&logoColor=660099&labelColor=282828"><br/>
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Solidity-98b982?style=for-the-badge&logo=solidity&logoColor=98b982&labelColor=282828">
 </div>
 </p>
 </div>
