@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-c58545?style=for-the-badge&logo=css3&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-C Sharp-c58545?style=for-the-badge&logo=csharp&logoColor=c58545&labelColor=282828"><br/>
-  <img src="https://img.shields.io/badge/-AP-c58545?style=for-the-badge&logo=photoshop&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-AP-c58545?style=for-the-badge&logo=adobephotoshop&logoColor=c58545&labelColor=282828">
 </div>
 </div>
 </p>
