@@ -38,6 +38,9 @@
       <a href="mailto:erenylmaz0@hotmail.com"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="sherzed" height="30"/></a>
+       <a href="mailto:erenylmaz0@hotmail.com"><img align="center"
+         src="https://img.shields.io/badge/discord-EA4335.svg?style=for-the-badge&logo=discord&logoColor=white"
+         alt="sherzed" height="30"/></a>
     </p>
   <p align="center">
       <a href="https://youtube.com/c/sherzedtrap" target="blank"><img align="center"
