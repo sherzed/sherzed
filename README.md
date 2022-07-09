@@ -16,7 +16,7 @@
 </p>
 </div>
 
-[(https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+[Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)<br>|<div style="text-align: justify">You should use the new version of the readme, [here](https://github.com/novatorem/novatorem)
 
 <div align="center">
   <a href="https://www.erenivon.ml">
