@@ -32,14 +32,11 @@
       <a href="https://www.linkedin.com/in/erenivon/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="sherzed" height="30"/></a>
-      <a href="https://discord.gg/VRRcfey" target="blank"><img align="center"
-         src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png"
+       <a href="https://discord.gg/VRRcfey"><img align="center"
+         src="https://img.shields.io/badge/discord-EA4335.svg?style=for-the-badge&logo=discord&logoColor=white"
          alt="sherzed" height="30"/></a>
       <a href="mailto:erenylmaz0@hotmail.com"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="sherzed" height="30"/></a>
-       <a href="mailto:erenylmaz0@hotmail.com"><img align="center"
-         src="https://img.shields.io/badge/discord-EA4335.svg?style=for-the-badge&logo=discord&logoColor=white"
          alt="sherzed" height="30"/></a>
     </p>
   <p align="center">
