@@ -16,7 +16,7 @@
 </p>
 </div>
 
-[Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
 
 <div align="center">
   <a href="https://www.erenivon.ml">
