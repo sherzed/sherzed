@@ -16,11 +16,7 @@
 </p>
 </div>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31aqu747o2w5o6kxkvybiofa2e6a">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
+[Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
 
 <div align="center">
   <a href="https://www.erenivon.ml">
